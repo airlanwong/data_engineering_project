@@ -11,8 +11,3 @@ phases:
   build:
     commands:
       -ng build --prod
-artifacts:
-  base-directory: dist/my-angular-project
-  files:
-    - '**/*'
-    
