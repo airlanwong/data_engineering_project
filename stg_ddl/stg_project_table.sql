@@ -19,4 +19,4 @@ StudentAbsenceDays VARCHAR(10),
 Class VARCHAR(10)
 )
 stored as parquet
-location 's3://de-project-bucket-alan/de_project/ingestion/'
+location 's3://de-project-bucket-alan/de_project/ingestion/';
